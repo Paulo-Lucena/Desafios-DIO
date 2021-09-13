@@ -1,5 +1,3 @@
-#Distância
-
 ## Desafio
 
 Duas motos (X e Y) partem em uma mesma direção. A moto X sai com velocidade constante de 60 Km/h e a moto Y sai com velocidade constante de 90 Km/h.
